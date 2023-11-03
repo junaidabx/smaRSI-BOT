@@ -1,0 +1,10 @@
+{
+    "ticker": "BNBUSDT",
+    "timeframe": "1d",
+    "fast_ma_period": 18,
+    "slow_ma_period": 64,
+    "rsi_period": 11,
+    "rsi_value": 48,
+    "sl_perc": 9,
+    "tp_perc": 8
+}

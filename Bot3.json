@@ -1,0 +1,10 @@
+{
+    "ticker": "DOGEUSDT",
+    "timeframe": "1h",
+    "fast_ma_period": 17,
+    "slow_ma_period": 60,
+    "rsi_period": 23,
+    "rsi_value": 52,
+    "sl_perc": 3,
+    "tp_perc": 9
+}

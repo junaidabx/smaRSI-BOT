@@ -1,0 +1,13 @@
+{
+    "ticker": "XLMUSDT",
+    "timeframe": "1d",
+    "method_type": "Fixed",
+    "price_type": "Quote",
+    "pos_size_value": 1000.0,
+    "fast_ma_period": 15,
+    "slow_ma_period": 60,
+    "rsi_period": 12,
+    "rsi_value": 57,
+    "sl_perc": 6,
+    "tp_perc": 11
+}
